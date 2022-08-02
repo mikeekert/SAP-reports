@@ -6,6 +6,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <main className={styles.main}>
           This is an app.
+          <div className={'p-6'}>hmm</div>
       </main>
     </div>
   )
